@@ -1,0 +1,1 @@
+'''testes condicionais executam uma acao de acordo com a condicao dada para sua execucao'''
